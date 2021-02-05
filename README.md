@@ -20,4 +20,4 @@ Hi, I'm a SRE and system administrator. Previously I worked on different startup
 - LinkedIn: https://linkedin.com/in/dryope
 - Personal IG: https://instagram.com/dryope
 - My Company: https://nvine.net
-- My Ccommerce Playground: https://nvnmarine.com
+- My Ecommerce Playground: https://nvnmarine.com
