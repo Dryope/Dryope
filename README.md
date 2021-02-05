@@ -16,8 +16,8 @@ Hi, I'm a SRE and system administrator. Previously I worked on different startup
 👨‍🍳 Also I'm a good Turkish cousine chef 
 
 ## Get in touch
-- E-Mail: dryope@dryope.com
-- LinkedIn: https://linkedin.com/in/dryope
-- Personal IG: https://instagram.com/dryope
-- My Company: https://nvine.net
-- My Ecommerce Playground: https://nvnmarine.com
+- 📧 E-Mail: dryope@dryope.com
+- 👔 LinkedIn: https://linkedin.com/in/dryope
+- 🌇 Personal IG: https://instagram.com/dryope
+- 📇 My Company: https://nvine.net
+- 🛒 My Ecommerce Playground: https://nvnmarine.com
